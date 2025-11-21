@@ -1,1 +1,3 @@
-# Projectio BananaBank
+# Projecto BananaBank
+
+Afonso Albuquerque
